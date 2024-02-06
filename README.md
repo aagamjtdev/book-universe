@@ -1,48 +1,39 @@
-# Nuxt Example
+![book-universe]
 
-Deploy your [Nuxt](https://nuxt.com) project to Vercel with zero configuration.
+## Book Universe
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/nuxtjs&template=nuxtjs)
+A react (`Next.js` + `React Query`) app, where you can find books and save your favorite books for later.
 
-_Live Example: https://nuxtjs-template.vercel.app_
+### Tech Used
 
-Look at the [Nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+- Next.js
+- React Query
+- Axios
+- React-hot-toast
 
-## Setup
+---
 
-Make sure to install the dependencies:
+Like my works and want to support me? <br>
 
-```bash
-# yarn
-yarn
+<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
 
-# npm
-npm install
+---
 
-# pnpm
-pnpm install --shamefully-hoist
-```
+## Other projects
 
-## Development Server
+📚 [All Web Cifar Projects][wc-projects]
 
-Start the development server on http://localhost:3000
+## Feedback
 
-```bash
-npm run dev
-```
+If you have any feedback, please reach out to us at [@web_cifar][wc-ig], or webcifar@gmail.com
 
-## Production
+## Get Support
 
-Build the application for production:
+For support, join our [Community Group][wc-fb-group].
 
-```bash
-npm run build
-```
+Happy Coding! ✨🚀
 
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment#presets) for more information.
+[arfan-ig]: http://instagram.com/shaifarfan08
+[wc-ig]: http://instagram.com/web_cifar
+[wc-projects]: https://github.com/ShaifArfan/wc-project-tutorials
+[wc-fb-group]: https://www.facebook.com/groups/webcifar
